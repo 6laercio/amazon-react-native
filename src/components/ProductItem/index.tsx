@@ -27,6 +27,7 @@ const ProductItem: React.FC<ProductItemProps> = ({item}: ProductItemProps) => {
         <View style={styles.ratingContainer}>
           {Array.from(Array(5).keys(), (_, i) => (
             <FontAwesome
+              key={i}
               style={styles.star}
               name={
                 (i < Math.floor(item.avgRating) && 'star') ||

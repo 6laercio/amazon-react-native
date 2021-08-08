@@ -52,7 +52,7 @@ export default [
     oldPrice: 120.06,
   },
   {
-    id: '5',
+    id: '6',
     title: 'Mouse Havit Mechanical Keyboard Wired 89 Keys Gaming Keyboard',
     image:
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/mouse1.jpg',
@@ -62,7 +62,7 @@ export default [
     oldPrice: 120.06,
   },
   {
-    id: '5',
+    id: '7',
     title: 'Mouse Havit Mechanical Keyboard Wired 89 Keys Gaming Keyboard',
     image:
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/images/products/mouse2.jpg',
